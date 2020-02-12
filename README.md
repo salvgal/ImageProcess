@@ -1,6 +1,6 @@
-# ImageProcess
+# Image Processing toolkit
 
-This projects has been build during graduate class 780 Image Processing. They execute filter and mathematical transformation on images take as input as array of integers.
+This projects execute filter and mathematical transformation on images, taken as input as array of integers that represents the pixels attributes.
 These tools are build in both Java and C++11.
 Three projects in three different folders:
 
