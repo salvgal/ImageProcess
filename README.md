@@ -1,6 +1,6 @@
 # Image Processing toolkit (Digital image processing)
 
-This projects execute filter and mathematical transformation on images, taken as input as array of integers that represents the pixels attributes.
+These projects execute filter and mathematical transformation on images, taken in input as array of integers that represents the pixels attributes.
 These tools are build in both Java and C++11.
 Three projects in three different folders:
 
